@@ -5,4 +5,4 @@
 
 *- As taken from [Wikipedia](https://en.wikipedia.org/wiki/Simon_(game))*
 
-Checkout the [Game]()
+Checkout the [Game](https://sheftrip.github.io/WebDev-101/Simon(Game)/)
